@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta namw="viewport" content="width-device-width, initial-scale-1.0">
+    <title>Document</title>
+    <script src="https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_3x2.jpg"></script>
+</head>
+<body>
+    <div class="flex w-32 justify-between">
+        <img src="https://www.hartz.com/wp-content/uploads/2022/04/small-dog-owners-1.jpg" alt="">
+        <img src="https://www.akc.org/wp-content/uploads/2017/11/GettyImages-187066830.jpg" alt="">
+        <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24113349/Bolognese-standing-in-profile-outdoors.jpg" alt="">
+    </div>
+
+</body>

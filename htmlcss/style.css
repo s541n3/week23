@@ -1,0 +1,46 @@
+.container {
+    color: red;
+}
+
+.container2 {
+    color: yellow;
+    padding: 1%;
+}
+
+.btn {
+    color: white;
+    border-radius: 4px;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 0.8%;
+    padding-right: 0.8%;
+    border: none;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    border-radius: 50%;
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+    background: #000;
+    border-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#pink {
+    background-color: palevioletred;
+}
